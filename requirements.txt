@@ -1,0 +1,5 @@
+Pillow==5.1.0
+pypng==0.0.18
+qrtools==0.0.2
+zbar==0.10
+alyn==0.1.1
