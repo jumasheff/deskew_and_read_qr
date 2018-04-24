@@ -1,10 +1,12 @@
+# -*- coding: utf8 -*-
+
 """ Deskews file after getting skew angle """
 import optparse
 import numpy as np
 import matplotlib.pyplot as plt
 
 # Я изменил этот импорт
-from .skew_detect import SkewDetect
+from src.skew_detect import SkewDetect
 from skimage import io
 from skimage.transform import rotate
 

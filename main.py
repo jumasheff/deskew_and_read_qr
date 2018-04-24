@@ -1,7 +1,9 @@
+# -*- coding: utf8 -*-
+
 import qrtools
 # Я изменил этот импорт
 # чтобы класс Deskew брался из локального файла deskew.py
-from .deskew import Deskew
+from src.deskew import Deskew
 
 # text_with_qr_30_deg.png is given for testing purposes.
 # use your image here
